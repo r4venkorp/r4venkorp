@@ -80,3 +80,5 @@ I am passionate about web development and fascinated by the ever-evolving world 
 <a href="http://www.github.com/r4venkorp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r4venkorp&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/r4venkorp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4venkorp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img src="https://raw.githubusercontent.com/r4venkorp/r4venkorp/output/snake.svg" alt="Snake animation" />
