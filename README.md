@@ -8,7 +8,7 @@ I am passionate about web development and fascinated by the ever-evolving world 
 
 * 🌍  I'm based in Quito
 * ✉️  You can contact me at [kevincardenas.dev@gmail.com](mailto:kevincardenas.dev@gmail.com)
-* 🧠  I'm learning TypeScript, NextJS, Tauri, Astro
+* 🧠  I'm learning TypeScript, NextJS
 * 🤝  I'm open to collaborating on web and desktop applications
 * ⚡  I practice yoga and play video games
 
